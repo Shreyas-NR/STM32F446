@@ -17,4 +17,3 @@ int main(void)
 			"This is STM32F466RE Micro-controller with LQFP64 Package\n");
 	for(;;);
 }
-
